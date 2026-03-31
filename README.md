@@ -8,7 +8,7 @@ A digital music streaming interface built with a focus on high-fidelity user exp
 - **Sleek UI:** Dark-themed design optimized for music enthusiasts.
 
 ## 🛠️ Tech Stack
-- Next.js
-- EJS
-- Tailwind
-- Spotify API
+- **Frontend:** Next.js (App Router) / React.js
+- **Styling:** Tailwind CSS / Styled Components
+- **State Management:** Redux Toolkit
+- **API Integration:** Spotify API
